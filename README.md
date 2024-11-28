@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Prashast Saxena's Journey 🚀
+# Hi there!
 
-
-![Visitor Count](https://komarev.com/ghpvc/?username=BoyleHere&style=flat-square&color=brightgreen) 
+<p align="center">
+  <img width="99" height="20" src="https://komarev.com/ghpvc/?username=BoyleHere">
+</p>
 
 Welcome to the repository of **Prashast Saxena**, an aspiring technology enthusiast currently pursuing a B.Tech in Information Technology (IT). This README highlights my major projects showcasing my commitment to innovation and excellence.
 
@@ -69,3 +70,7 @@ I aim to continue exploring and contributing to cutting-edge technologies while 
 ---
 
 Feel free to connect with me on [GitHub](https://github.com/BoyleHere) or [LinkedIn](https://www.linkedin.com/in/prashast-saxena-6b0ba2205/) to discuss ideas and collaborations!
+
+<p align="center">
+  <img width="495" height="195" src="https://github-readme-stats.vercel.app/api?username=BoyleHere&show_icons=true&theme=radical">
+</p>
