@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Prashast Saxena's Journey 🚀
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=BoyleHere&color=blue)  
+![Visitor Count](https://komarev.com/ghpvc/?username=BoyleHere&style=flat-square&color=brightgreen) 
 
 Welcome to the repository of **Prashast Saxena**, an aspiring technology enthusiast currently pursuing a B.Tech in Information Technology (IT). This README highlights my major projects showcasing my commitment to innovation and excellence.
 
