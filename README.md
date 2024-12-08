@@ -54,13 +54,43 @@ A secure and robust system designed to enable online voting with the highest sta
 This system is built to promote trust and efficiency in the voting process, making it an ideal solution for organizations or communities.  
 
 
-### 4. Railway Management System  
+### 2. Railway Management System  
 A web-based platform to streamline train schedules, bookings, and passenger management.  
 - **Features**:  
   - Administrator module for train and booking management  
   - User module for ticket booking, cancellation, and concessions  
 - **Achievements**: Scalable design with secure data handling  
-- **Tools**: WAMP stack (Windows, Apache, MySQL, PHP), HTML/CSS 
+- **Tools**: WAMP stack (Windows, Apache, MySQL, PHP), HTML/CSS
+
+  
+### 3. Discord Bot for Community Verification
+
+A robust and feature-rich Discord bot designed to manage and verify users within a server, ensuring secure and seamless community interactions.
+
+- **Main Features**:
+  - **Email-Based Verification**: Users can verify their identity using domain-specific email addresses, ensuring secure access.
+  - **Automated Role Assignment**: Verified users are automatically assigned roles based on server configurations.
+  - **Domain Management**: Server administrators can add or remove permissible email domains for verification.
+  - **Dynamic Commands**:
+    - `.verify`: Starts the email verification process.
+    - `.domainadd` & `.domainremove`: Manage allowed email domains.
+    - `.rolechange`: Update the role name assigned to verified users.
+    - `.enableonjoin` & `.disableonjoin`: Toggle automatic verification prompts for new members.
+    - `.vstatus`: Display the bot's status and current configurations.
+
+- **Technologies Used**:
+  - **Discord.py**: This is for bot creation and interaction with Discord servers.
+  - **SQLite**: Lightweight database to store user and server data.
+  - **SendGrid & Mailgun APIs**: Send verification emails to users.
+  - **Python**: A core programming language for logic and automation.
+
+- **Additional Features**:
+  - Handles incorrect email domains or verification codes gracefully.
+  - Customizable verification prompts and user experiences.
+  - Logs actions like unauthorized pings to server moderators or owners.
+
+This bot is a comprehensive solution for community servers requiring a secure and automated verification process.
+
 
 ---
 
